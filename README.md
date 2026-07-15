@@ -1,82 +1,30 @@
-## GritMap turns your daily reviews into a picture. Instead of guessing whether you've been consistent, you open Anki and see it — a full year of study laid out like a calendar, each day glowing brighter the more you did. 🔥
+## CoreProgress
 
-## 
+Ever finish a deck without knowing how close you actually were? CoreProgress puts a slim, animated progress bar right at the top of your review screen, so you always know exactly how far you've gotten — and it lights up gold when you're on a hot streak. 🔥
 
-## GritMap gives Anki the memory of your effort it's always been missing.
+CoreProgress gives Anki the momentum meter it's missing.
 
-## 
+![coreprogress](https://github.com/cortezmichael594-lgtm/Anki-CoreProgress/blob/main/assets/Screenshot%202026-07-15%20085852.png?raw=true)
 
-## <hr style="height: 1px; border: none; background-color: #e1e4e8;">
+- 🔘 **Live progress bar** — fills up in real time as you review, syncing instantly with undos and card resets
+- 🎨 **7 color themes** — from classic green to sunset orange, pick the one that matches your vibe
+- ✨ **Streak celebrations** — sparkle bursts and a glowing streak counter at key milestones (2, 5, 10, 15...)
+- 🌗 **Automatic light/dark adaptation** — matches Anki's night mode and any custom card theme instantly
+- ⚙️ **Adjustable spacing** — push the bar down if it overlaps your card layout
+- 🌍 **Translated interface** — available in dozens of languages out of the box
 
-## 
+![coreprogress](https://github.com/cortezmichael594-lgtm/Anki-CoreProgress/blob/main/assets/Screenshot%202026-07-15%20085823.png?raw=true)
 
-## \* 📅 \*\*A GitHub-style heatmap\*\* of every review, right on your deck list — a whole year at a glance.
+**HOW TO USE**
+1. Install the add-on and restart Anki.
+2. Start reviewing — the bar appears automatically at the top of the reviewer.
+3. Hit a few correct answers in a row to see the streak effects kick in.
 
-## \* 🔍 \*\*Hover any day\*\* to see exactly how many cards you reviewed and when.
+**SETTINGS**
+Go to Tools → Add-ons → CoreProgress → Config to change the color theme, toggle streak effects, and adjust the top spacing.
 
-## \* 🖱️ \*\*Click a day\*\* to open those exact cards in the Browser — your past study, one tap away.
+**COMPATIBILITY**
+Tested on the latest Anki release (Qt6) on Windows and Linux.
 
-## \* 📊 \*\*Live stats:\*\* daily average, days studied, 30-day retention, current streak and longest streak.
-
-## \* 🎨 \*\*Seven color themes\*\* (green, blue, purple, orange, red, rose, turquoise), light and dark aware.
-
-## \* ⚙️ \*\*Tune cell size\*\*, corner rounding, weekly comparison and per-deck exclusions.
-
-## \* 🌍 \*\*Fully localized\*\* — month names and labels follow your Anki language (51 languages).
-
-## 
-
-## <hr style="height: 1px; border: none; background-color: #e1e4e8;">
-
-## 
-
-## \*\[GIF: open Anki on the deck list showing the heatmap, hover a couple of bright days so the tooltip pops, then click one and let the Browser open with those cards.]\*
-
-## 
-
-## <hr style="height: 1px; border: none; background-color: #e1e4e8;">
-
-## 
-
-## \### How to use
-
-## 
-
-## 1\. Install and restart Anki — the heatmap appears under your deck list automatically.
-
-## 2\. Hover any cell to inspect that day; click it to open its cards.
-
-## 3\. Use the ⚙️ button on the map (or \*\*Tools → Add-ons → GritMap → Config\*\*) to customize.
-
-## 
-
-## <hr style="height: 1px; border: none; background-color: #e1e4e8;">
-
-## 
-
-## \### Settings
-
-## Go to \*\*Tools → Add-ons → GritMap → Config\*\* to customize the theme, cell size, corner radius, weekly comparison and excluded decks.
-
-## 
-
-## \### Compatibility
-
-## Tested on recent Anki (24.x–25.x). Primarily tested on Windows; please report anything off on Mac/Linux.
-
-## 
-
-## <hr style="height: 1px; border: none; background-color: #e1e4e8;">
-
-## 
-
-## \### Changelog
-
-## \*\*v1.0.0 — 2026-07-15\*\* — Initial release.
-
-## 
-
-## License
-
-AGPLv3 — see LICENSE file
-
+**CHANGELOG**
+v1.0.0 — 2026-07-15 — Initial release.
