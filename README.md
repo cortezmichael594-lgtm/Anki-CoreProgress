@@ -1,4 +1,4 @@
-## CoreProgress
+## CoreProgress (by Ankicraft)
 
 Ever finish a deck without knowing how close you actually were? CoreProgress puts a slim, animated progress bar right at the top of your review screen, so you always know exactly how far you've gotten — and it lights up gold when you're on a hot streak. 🔥
 
